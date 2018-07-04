@@ -11,7 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="LongPolling" target="1.5" />
-      <module name="TestClient" target="1.7" />
+      <module name="TestClient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
